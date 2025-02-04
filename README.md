@@ -14,7 +14,6 @@
 
 ## <p align="left">💫 About Me</p>
 
-<br>
 
 <p align="left">Versatile MERN Stack Developer | Proficient in HTML, CSS, Tailwind CSS, React, and JavaScript for Frontend | Comfortable with Backend Technologies: Node.js, Express.js, MongoDB | Experienced in Firebase for Deployment | Eager to Contribute and Learn in a Dynamic Development Environment</p>
 
@@ -51,6 +50,8 @@
 
 <br>
 <br>
+
+
 
 ## 🕹️ Current Overview
 
@@ -100,6 +101,7 @@
 <br>
 
 ## <h3>:mailbox: Reach me out</h3>
+
 <br>
 
 <div align="left">
