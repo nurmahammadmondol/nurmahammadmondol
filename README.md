@@ -38,6 +38,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
 
+## 🕹️ Current Overview
+
+- 🌱 I’m currently learning **Next Js, MUI**
+
+- 👯 I’m looking to collaborate on **Frontend Projects**
+
+- 💬 Let's talk about **React, Node Js, Tailwind CSS, Daisy UI**
+
+- 📧 How to reach me **ashikurovi2003@gmail.com.com**
+
 ###
 
 <div  align="center">
