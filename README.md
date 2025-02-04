@@ -14,11 +14,10 @@
 
 ## :chart_with_upwards_trend: Current Stats
 
-<div align="center">
+<a href="https://git.io/streak-stats">
+  <img src="https://nirzak-streak-stats.vercel.app?user=nurmahammadmondol&theme=tokyonight&mode=weekly" alt="GitHub Streak">
+</a>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ashikurbd71&theme=tokyonight)](https://git.io/streak-stats)
-
-</div>
 <br>
 ### <p align="left">💫 About Me</p>
 
