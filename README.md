@@ -17,6 +17,8 @@
 
 <p align="left">Versatile MERN Stack Developer | Proficient in HTML, CSS, Tailwind CSS, React, and JavaScript for Frontend | Comfortable with Backend Technologies: Node.js, Express.js, MongoDB | Experienced in Firebase for Deployment | Eager to Contribute and Learn in a Dynamic Development Environment</p>
 
+<p align="left">I am a MERN stack developer, skilled in frontend and backend technologies. I build attractive and responsive web applications using HTML, CSS, Tailwind CSS, React and JavaScript. On the backend, I build powerful and scalable solutions using Node.js, Express.js and MongoDB. I have experience deploying applications with Firebase, which ensures that your application launches quickly and securely. I am always eager to learn and ready to take on new challenges, so I love working in a dynamic development environment.</p>
+
 <br>
 <br>
 
