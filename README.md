@@ -1,5 +1,6 @@
 
-## Hi there 👋
+# Hi there 👋
+<br>
 
 <div align="center">
   <img height="279" src="https://scontent.fdac24-1.fna.fbcdn.net/v/t39.30808-6/473115250_451514088032397_4204244475968417324_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=reXqV3lbhDcQ7kNvgFBtF0B&_nc_zt=23&_nc_ht=scontent.fdac24-1.fna&_nc_gid=AuGZf5OMqNUHPAQG7V-C85q&oh=00_AYAwkNTjQ4Ldu_g8GIdX6T89cDWd2bvDjWlXS3EaUoSniA&oe=67A82482"  />
@@ -7,14 +8,26 @@
 
 
 <br>
+<br>
 
+
+
+## :chart_with_upwards_trend: Current Stats
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ashikurbd71&theme=tokyonight)](https://git.io/streak-stats)
+
+</div>
+<br>
 ### <p align="left">💫 About Me</p>
 
-###
+<br>
 
 <p align="left">Versatile MERN Stack Developer | Proficient in HTML, CSS, Tailwind CSS, React, and JavaScript for Frontend | Comfortable with Backend Technologies: Node.js, Express.js, MongoDB | Experienced in Firebase for Deployment | Eager to Contribute and Learn in a Dynamic Development Environment</p>
 
-###
+<br>
+<br>
 
 ## 💻 Tech Stack:
 
@@ -46,6 +59,7 @@
 </div>
 
 <br>
+<br>
 
 ## 🕹️ Current Overview
 
@@ -60,6 +74,7 @@
 
 
 <br>
+<br>
 
 
 
@@ -67,6 +82,7 @@
 
 
 ###  <h3>📊 GitHub Summary</h3>
+<br>
 <div  align="center">
 
 <a href="https://github.com/nurmahammadmondol">
@@ -90,9 +106,12 @@
 
 
 <br>
-## :mailbox: Reach me out
+<br>
 
-<div align="center">
+## <h3>:mailbox: Reach me out</h3>
+<br>
+
+<div align="left">
   <a href="https://www.linkedin.com/in/nur-mohammad-mondol-robiul-8672b4334/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
@@ -104,4 +123,4 @@
   </a>
 </div>
 
-###
+
