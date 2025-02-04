@@ -29,7 +29,7 @@
 
 <br>
 
-## 💻 Tech Stack:
+## 💻 Technologies that I know  :
 
 
   <div align="center">
