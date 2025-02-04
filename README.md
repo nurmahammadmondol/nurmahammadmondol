@@ -40,7 +40,7 @@
 
 ###
 
-<div>
+<div  align="center">
   <a href="https://git.io/streak-stats">
   <img src="https://nirzak-streak-stats.vercel.app?user=nurmahammadmondol&theme=dark" alt="GitHub Streak">
 </a>
@@ -50,8 +50,8 @@
 
 ###
 
-<div>
   <h3>📊 GitHub Summary</h3>
+<div  align="center">
 
 <a href="https://github.com/nurmahammadmondol">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nurmahammadmondol&theme=github_dark" alt="GitHub Summary">
