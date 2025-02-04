@@ -1,5 +1,5 @@
 
-### Hi there 👋
+## Hi there 👋
 
 <div align="center">
   <img height="279" src="https://scontent.fdac24-1.fna.fbcdn.net/v/t39.30808-6/473115250_451514088032397_4204244475968417324_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=reXqV3lbhDcQ7kNvgFBtF0B&_nc_zt=23&_nc_ht=scontent.fdac24-1.fna&_nc_gid=AuGZf5OMqNUHPAQG7V-C85q&oh=00_AYAwkNTjQ4Ldu_g8GIdX6T89cDWd2bvDjWlXS3EaUoSniA&oe=67A82482"  />
@@ -19,7 +19,7 @@
 ## 💻 Tech Stack:
 
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -49,7 +49,7 @@
 
 ## 🕹️ Current Overview
 
-- 🌱 I’m currently learning **Next Js, MUI**
+- 🌱 I’m currently learning **Next Js**
 
 - 👯 I’m looking to collaborate on **Frontend Projects**
 
@@ -90,7 +90,7 @@
 
 
 <br>
-###
+### :mailbox: Reach me out
 
 <div align="center">
   <a href="https://www.linkedin.com/in/nur-mohammad-mondol-robiul-8672b4334/" target="_blank">
