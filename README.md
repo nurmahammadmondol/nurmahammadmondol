@@ -13,7 +13,7 @@
 
 
 
-### <p align="left">💫 About Me</p>
+## <p align="left">💫 About Me</p>
 
 <br>
 
@@ -73,7 +73,7 @@
 
 
 
-###  <h3>📊 GitHub Summary</h3>
+##  <h3>📊 GitHub Summary</h3>
 <br>
 <div  align="center">
 
