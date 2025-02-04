@@ -57,6 +57,9 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nurmahammadmondol&theme=github_dark" alt="GitHub Summary" width="100%">
 </a>
 
+<br>
+<br>
+
 <a href="https://github.com/nurmahammadmondol">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nurmahammadmondol&theme=github_dark" alt="Top Languages" width="49%">
 </a>
