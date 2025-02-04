@@ -50,6 +50,25 @@
 
 ###
 
+<div>
+  <h3>📊 GitHub Summary</h3>
+
+<a href="https://github.com/nurmahammadmondol">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nurmahammadmondol&theme=github_dark" alt="GitHub Summary">
+</a>
+
+<a href="https://github.com/nurmahammadmondol">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nurmahammadmondol&theme=github_dark" alt="Top Languages">
+</a>
+
+<a href="https://github.com/nurmahammadmondol">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nurmahammadmondol&theme=github_dark" alt="GitHub Stats">
+</a>
+
+</div>
+
+###
+
 <div align="center">
   <a href="https://www.linkedin.com/in/nur-mohammad-mondol-robiul-8672b4334/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
