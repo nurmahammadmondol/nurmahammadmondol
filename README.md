@@ -54,16 +54,21 @@
 <div  align="center">
 
 <a href="https://github.com/nurmahammadmondol">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nurmahammadmondol&theme=github_dark" alt="GitHub Summary" width="100%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nurmahammadmondol&theme=github_dark" alt="GitHub Summary" width="850">
 </a>
 
-<a href="https://github.com/nurmahammadmondol">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nurmahammadmondol&theme=github_dark" alt="Top Languages" width="49%">
-</a>
+<br><br> <!-- বেশি gap -->
 
 <a href="https://github.com/nurmahammadmondol">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nurmahammadmondol&theme=github_dark" alt="GitHub Stats" width="49%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nurmahammadmondol&theme=github_dark" alt="Top Languages" width="400">
 </a>
+
+&nbsp;&nbsp;&nbsp;&nbsp; <!-- মাঝখানে gap -->
+
+<a href="https://github.com/nurmahammadmondol">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nurmahammadmondol&theme=github_dark" alt="GitHub Stats" width="400">
+</a>
+
 
 </div>
 
