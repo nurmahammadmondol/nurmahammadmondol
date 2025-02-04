@@ -2,15 +2,17 @@
   <img height="279" src="https://scontent.fdac24-1.fna.fbcdn.net/v/t39.30808-6/473115250_451514088032397_4204244475968417324_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=reXqV3lbhDcQ7kNvgFBtF0B&_nc_zt=23&_nc_ht=scontent.fdac24-1.fna&_nc_gid=AuGZf5OMqNUHPAQG7V-C85q&oh=00_AYAwkNTjQ4Ldu_g8GIdX6T89cDWd2bvDjWlXS3EaUoSniA&oe=67A82482"  />
 </div>
 
-###
 
-<p align="left">💫 About Me</p>
+<br>
+
+### <p align="left">💫 About Me</p>
 
 ###
 
 <p align="left">Versatile MERN Stack Developer | Proficient in HTML, CSS, Tailwind CSS, React, and JavaScript for Frontend | Comfortable with Backend Technologies: Node.js, Express.js, MongoDB | Experienced in Firebase for Deployment | Eager to Contribute and Learn in a Dynamic Development Environment</p>
 
 ###
+<br>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
@@ -38,6 +40,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
 
+<br>
+
 ## 🕹️ Current Overview
 
 - 🌱 I’m currently learning **Next Js, MUI**
@@ -48,10 +52,11 @@
 
 - 📧 How to reach me **ashikurovi2003@gmail.com.com**
 
-###
 
 
-  <h3>📊 GitHub Summary</h3>
+<br>
+
+###  <h3>📊 GitHub Summary</h3>
 <div  align="center">
 
 <a href="https://github.com/nurmahammadmondol">
