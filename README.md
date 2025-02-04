@@ -1,6 +1,5 @@
 
-# Hi there 👋
-<br>
+### Hi there 👋
 
 <div align="center">
   <img height="379" src="https://grras.com/files/sgbaxnrabaysf8ugrxu6/blog_image_mern_stck.jpeg?s=940x350" width="100%" />
