@@ -54,15 +54,15 @@
 <div  align="center">
 
 <a href="https://github.com/nurmahammadmondol">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nurmahammadmondol&theme=github_dark" alt="GitHub Summary">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nurmahammadmondol&theme=github_dark" alt="GitHub Summary" width="100%">
 </a>
 
 <a href="https://github.com/nurmahammadmondol">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nurmahammadmondol&theme=github_dark" alt="Top Languages">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nurmahammadmondol&theme=github_dark" alt="Top Languages" width="49%">
 </a>
 
 <a href="https://github.com/nurmahammadmondol">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nurmahammadmondol&theme=github_dark" alt="GitHub Stats">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nurmahammadmondol&theme=github_dark" alt="GitHub Stats" width="49%">
 </a>
 
 </div>
