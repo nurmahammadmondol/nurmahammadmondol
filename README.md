@@ -28,8 +28,9 @@
 </div>
 
 <br>
+<br>
 
-## 💻 Technologies that I know  :
+## 💻 Technologies that I know  
 
 
   <div align="center">
