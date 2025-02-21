@@ -2,7 +2,7 @@
 ### Hi there 👋
 
 <div align="center">
-  <img height="400" src="https://scontent.fdac24-2.fna.fbcdn.net/v/t39.30808-6/475995125_1641846419738657_6130814367431700369_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=FtEKwzTVFbQQ7kNvgHYEPko&_nc_zt=23&_nc_ht=scontent.fdac24-2.fna&_nc_gid=Ai3dLcBpdGiVDplMtNwsgYS&oh=00_AYCtXBGsZRH7gMellLId19pnwCZ1e5Baxc27KLCGsg-E8g&oe=67A865CF" width="100%" />
+  <img height="400" src="https://i.ibb.co.com/0R6TntR2/475995125-1641846419738657-6130814367431700369-n.jpg" width="100%" />
 </div>
 
 
